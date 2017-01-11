@@ -1,0 +1,6 @@
+D:\C#\GeekBrains\C# Basic\Lesson 5\HW5_Valery\HW5_Valery\bin\Debug\HW5_Valery.exe.config
+D:\C#\GeekBrains\C# Basic\Lesson 5\HW5_Valery\HW5_Valery\bin\Debug\HW5_Valery.exe
+D:\C#\GeekBrains\C# Basic\Lesson 5\HW5_Valery\HW5_Valery\bin\Debug\HW5_Valery.pdb
+D:\C#\GeekBrains\C# Basic\Lesson 5\HW5_Valery\HW5_Valery\obj\Debug\HW5_Valery.csprojResolveAssemblyReference.cache
+D:\C#\GeekBrains\C# Basic\Lesson 5\HW5_Valery\HW5_Valery\obj\Debug\HW5_Valery.exe
+D:\C#\GeekBrains\C# Basic\Lesson 5\HW5_Valery\HW5_Valery\obj\Debug\HW5_Valery.pdb
